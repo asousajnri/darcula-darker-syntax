@@ -1,0 +1,16 @@
+{
+  "name": "darcula-darker-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "An Pulsar syntax highlighting scheme based on IntelliJ Darcula Darker",
+  "keywords": [
+    "syntax",
+    "theme",
+    "darcula"
+  ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
